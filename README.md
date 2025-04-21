@@ -1,14 +1,12 @@
-Xin chào, mình là Anh Tú, một lập trình viên game chuyên về Unreal Engine (C++), đam mê xây dựng trải nghiệm tương tác chất lượng cao, tối ưu và sáng tạo.
+Xin chào, mình là Anh Tú, một lập trình viên game chuyên về Unreal Engine , đam mê xây dựng trải nghiệm tương tác chất lượng cao, tối ưu và sáng tạo.
 
 Portfolio này là tổng hợp các dự án cá nhân và sản phẩm thực tế mình đã thực hiện trong quá trình học tập và làm việc. Mỗi dự án đều phản ánh rõ cách mình tiếp cận vấn đề, quy trình phát triển, cũng như khả năng vận dụng kỹ thuật lập trình trong môi trường game.
 
 Kỹ năng chính:
 
-Lập trình gameplay, animation, hệ thống tương tác bằng C++/Blueprint
+Lập trình gameplay, animation, hệ thống tương tác bằng Blueprint
 
 Thiết kế hệ thống game logic, input, UI/UX
-
-Hiểu rõ pipeline của Unreal Engine và tối ưu hiệu suất dự án
 
 Có kinh nghiệm làm việc nhóm với Git và quy trình Agile/Scrum
 
