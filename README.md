@@ -26,7 +26,7 @@ Mình luôn sẵn sàng học hỏi công nghệ mới, thích nghi với thử 
     <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="30" width="30">
   </a>
   
-  <a href="https://sabo2022.github.io/LeAnhTu.Profile/">
+  <a href="https://sabo2022.github.io/SaboPortfolio/">
     <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="DevTo" height="30" width="30">
   </a>
 	
