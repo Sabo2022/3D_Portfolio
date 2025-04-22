@@ -13,8 +13,8 @@ Có kinh nghiệm làm việc nhóm với Git và quy trình Agile/Scrum
 Mình luôn sẵn sàng học hỏi công nghệ mới, thích nghi với thử thách, và mong muốn được phát triển trong một môi trường chuyên nghiệp, sáng tạo.
 
 📩 Rất mong được kết nối và hợp tác cùng các studio game, công ty công nghệ hoặc đội ngũ phát triển đầy nhiệt huyết!
-
-Sample Game :   <a href="https://drive.google.com/file/d/1WitzzpyqSLg0D0fUHFLdUWv753BbR6iD/view?usp=sharing">
+Sample Game
+               :   <a href="https://drive.google.com/file/d/1WitzzpyqSLg0D0fUHFLdUWv753BbR6iD/view?usp=sharing">
     <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="DevTo" height="30" width="30">
   </a>
 
